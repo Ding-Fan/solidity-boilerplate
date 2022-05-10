@@ -10,7 +10,11 @@ cd new-project
 
 We'd like to keep "contract-hardhat" and "frontend-next" into two seperate (sibling) repositories. For the sake of simple and easy configurations.
 
-### contract-hardhat
+### [contract-hardhat](https://github.com/Ding-Fan/solidity-boilerplate-contract-hardhat)
+
+Click link above to get the code
+
+Or make it manually:
 
 ```sh
 mkdir contract-hardhat
