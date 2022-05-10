@@ -48,3 +48,6 @@ yarn create next-app -e with-tailwindcss frontend-next
 ...
 yarn add ethers
 ```
+
+for reference:
+https://github.com/NomicFoundation/hardhat-hackathon-boilerplate/blob/master/frontend/src/components/Dapp.js
