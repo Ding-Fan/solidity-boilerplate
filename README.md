@@ -37,7 +37,11 @@ npx hardhat
 - `git init` and keep going the git things
   - `git branch -m master main` to rename master to main
 
-### frontend-next
+### [frontend-next](https://github.com/Ding-Fan/solidity-boilerplate-frontend-next)
+
+Click link above to get the code
+
+Or make it manually:
 
 ```sh
 yarn create next-app -e with-tailwindcss frontend-next
