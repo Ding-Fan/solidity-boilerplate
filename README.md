@@ -45,4 +45,6 @@ Or make it manually:
 
 ```sh
 yarn create next-app -e with-tailwindcss frontend-next
+...
+yarn add ethers
 ```
