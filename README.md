@@ -30,7 +30,8 @@ npx hardhat
   - `npx hardhat run scripts/deploy.js --network <network>`
   - maybe add this to package.json `script`
 
-`git init` and keep going the git things
+- `git init` and keep going the git things
+  - `git branch -m master main` to rename master to main
 
 ### frontend-next
 
